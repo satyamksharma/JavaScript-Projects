@@ -1,2 +1,15 @@
 # The-Pig-Game
-Its a fun game where two players roll a dice and their score adds up until they get 1 where it resets to 0. The players can also hold the score until they get 1 and the player with highest score wins!
+
+## Demo
+
+Check out the live demo: [View Demo](https://the-2dice-game.netlify.app/)
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+<!-- Add more screenshots if needed -->
+
+## License
+
+This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
