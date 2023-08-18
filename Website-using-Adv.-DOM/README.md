@@ -1,2 +1,15 @@
 # Website-using-Adv.-DOM
-This is a project to learn advanced DOM techniques to enhance the UI of the website.
+
+## Demo
+
+Check out the live demo: [View Demo](https://dom-banking-system.netlify.app/)
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+<!-- Add more screenshots if needed -->
+
+## License
+
+This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
