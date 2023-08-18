@@ -17,14 +17,14 @@ Welcome to the JavaScript Projects repository! This repository contains a variet
 
 ## Project List
 
-1. [Project 1: 2 Dice Game](https://the-2dice-game.netlify.app/)
+1. [Project 1: 2 Dice Game](https://github.com/satyamksharma/JavaScript-Projects/tree/main/2-dice-game)
    - Engaging virtual dice game bringing classic dice rolling to the digital world.
    -Players can roll two dice, aiming for different combinations to score points.
    -User-friendly interface, fostering both chance and strategic gameplay.
 
    **Technologies Used**:HTML, CSS and JavaScript.
 
-2. [Project 2: Guess My Number](https://guess-the-digit.netlify.app/)
+2. [Project 2: Guess My Number](https://github.com/satyamksharma/JavaScript-Projects/tree/main/Guess-My-Number)
    - "Guess The Digit" is an interactive and educational web project designed to challenge users' numerical intuition and problem-solving skills.
    -The game presents users with a randomized sequence of digits and prompts them to predict the next digit based on the pattern they perceive.
    -With a user-friendly interface and increasing difficulty levels, the project offers an engaging way to enhance numerical cognition.
@@ -32,7 +32,7 @@ Welcome to the JavaScript Projects repository! This repository contains a variet
    **Technologies Used**:HTML, CSS and JavaScript.
 
 
-3. [Project 3: Stopwatch and Timer](https://my-timer-stopwatch.netlify.app/)
+3. [Project 3: Stopwatch and Timer](https://github.com/satyamksharma/JavaScript-Projects/tree/main/Stopwatch_And_Timer)
    - This web project provides a user-friendly timer and stopwatch application.
    - The project boasts a sleek and intuitive user interface designed with HTML and styled with CSS, ensuring a visually appealing and responsive experience across different devices.
    - Developed using JavaScript, the web app offers interactive timer and stopwatch functionality.
@@ -40,7 +40,7 @@ Welcome to the JavaScript Projects repository! This repository contains a variet
    **Technologies Used**:HTML, CSS and JavaScript.
 
 
-4. [Project 4: U-Bank](https://my-u-bank.netlify.app/)
+4. [Project 4: U-Bank](https://github.com/satyamksharma/JavaScript-Projects/tree/main/U-Bank)
    - The project is a simple simulation of Banking system where users can log in to account and perform dummy transcations.
    - The transactions are updated on both the sender as well as reciever account.
    - This project packs a lot of great UI and minimal design.
@@ -48,7 +48,7 @@ Welcome to the JavaScript Projects repository! This repository contains a variet
    **Technologies Used**:HTML, CSS and JavaScript.
 
 
-5. [Project 5: DOM-website](https://dom-banking-system.netlify.app/)
+5. [Project 5: DOM-website](https://github.com/satyamksharma/JavaScript-Projects/tree/main/Website-using-Adv.-DOM)
    - The Project is a Landing page for a banking website which implements advanced DOM features.
    - There is a lot of animations and minimilistic design and load on scroll frature for images.
    - This project is great to take reference for building a landing page for your project and customizing it as you need.
