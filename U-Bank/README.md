@@ -1,2 +1,15 @@
 # U-Bank
-A banking website simulation for money transactions created using HTML, CSS and vanilla JS
+
+## Demo
+
+Check out the live demo: [View Demo](https://my-u-bank.netlify.app/)
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+<!-- Add more screenshots if needed -->
+
+## License
+
+This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
